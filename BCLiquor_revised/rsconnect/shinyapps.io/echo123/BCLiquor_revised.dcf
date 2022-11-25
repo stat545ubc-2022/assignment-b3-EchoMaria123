@@ -1,0 +1,13 @@
+name: BCLiquor_revised
+title: BCLiquor_revised
+username:
+account: echo123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7728875
+bundleId: 6553132
+url: https://echo123.shinyapps.io/BCLiquor_revised/
+when: 1669359918.53785
+lastSyncTime: 1669359918.53786
+asMultiple: FALSE
+asStatic: FALSE
