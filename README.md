@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the repo for assignment-b3, STAT545B, in which a Shiny app was deployed.\
+This is the repo for assignment-b3, STAT545B, in which a Shiny app was deployed.
 
 ## Link to Shinny app
 
