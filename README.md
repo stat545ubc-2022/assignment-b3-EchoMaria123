@@ -2,15 +2,7 @@
 
 ## Introduction
 
-<<<<<<< HEAD
 This is the repo for assignment-b3 and assignment-b4, STAT545B, in which two Shiny apps were deployed.\
-=======
-This is the repo for assignment-b3, STAT545B, in which a Shiny app was deployed.
-
-## Link to Shinny app
-
-The instance of the deployed Shinny app can be accessed through this *[Link](https://echo123.shinyapps.io/BCLiquor_revised/)*.
->>>>>>> 5e1d5ae86db83f7d64b4122189f02fe60a570ebe
 
 ## Description
 
