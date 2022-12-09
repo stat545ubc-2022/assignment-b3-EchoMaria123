@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the repo for assignment-b3 and assignment-b4, STAT545B, in which two Shiny apps were deployed.\
+This is the repo for assignment-b3 and assignment-b4, STAT545B, in which two Shiny apps were deployed.
 
 ## Description
 
